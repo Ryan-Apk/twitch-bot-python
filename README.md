@@ -7,6 +7,8 @@ A small python coded twitch bot that contains:
 - Microphone speech-to-text recognition
 - Toggleable local llm message generation based on collected information (which is then sent into twitch chat as a user)
 
+This repository is not actively maintained.
+
 ### How to use:
 1. Clone repository
 2. Create venv using requirements.txt
